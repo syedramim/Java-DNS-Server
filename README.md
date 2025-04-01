@@ -1,10 +1,5 @@
 # Java DNS Server
 
-**Course**: BC-CSCI3363 – Computer Networks (Fall 2022)  
-**Institution**: Boston College  
-**Instructor**: Professor Wiseman  
-**Language**: Java
-
 ## Overview
 
 This project is a lightweight Domain Name System (DNS) server written in Java. It responds to DNS queries using data from a custom-formatted zone file and supports A and NS record types. The server operates over UDP and includes a basic DNS cache with TTL expiration support.
